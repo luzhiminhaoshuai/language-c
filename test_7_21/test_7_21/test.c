@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
 
-//使用do while循环打印1~ 10
+//使用do while循环打印1~10
 #include <stdio.h>
 
 //int main()
