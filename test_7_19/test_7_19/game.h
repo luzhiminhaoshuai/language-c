@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS 1
+ #define _CRT_SECURE_NO_WARNINGS 1
 #define _CRT_SECURE_NO_WARNINGS 1
 //地雷的总数
 #define COUNT 10
