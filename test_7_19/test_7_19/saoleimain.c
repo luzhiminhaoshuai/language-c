@@ -1,4 +1,4 @@
-//#include"game.h"
+ //#include"game.h"
 ////²Ëµ¥
 //void menu()
 //{
