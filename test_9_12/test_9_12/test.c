@@ -4,7 +4,7 @@
 #include <string.h>
 
 
-//int main()
+// int main()
 //{
 //	char arr[] = "zpengwei@bitedu.com";
 //	char buf[200] = { 0 };//"zpengwei@bitedu.com"
