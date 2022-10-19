@@ -12,7 +12,7 @@
 //};
 //
 //
-//struct S
+ //struct S
 //{
 //	int n;
 //	float s;
