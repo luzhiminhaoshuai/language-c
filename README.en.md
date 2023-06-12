@@ -1,7 +1,6 @@
-# 比特就业课暑假班
 
 #### Description
-比特就业课暑假班的板书和代码
+
 
 #### Software Architecture
 Software architecture description
